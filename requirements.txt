@@ -1,0 +1,10 @@
+swig
+gym
+box2d-py
+torchvision
+gdown
+matplotlib
+notebook
+pygame
+tqdm
+scipy
